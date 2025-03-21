@@ -40,9 +40,9 @@ public class MultiplayerSessions : ModuleRules
 			new string[]
 			{
 				"CoreUObject",
-				"Engine",
-				"Slate",
-				"SlateCore",
+				"Engine"
+				// "Slate",
+				// "SlateCore",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
